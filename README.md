@@ -1,4 +1,8 @@
-# Manufacturing Downtime Analysis
+# Manufacturing Downtime Analysis  
+
+# Overview -  
+
+This project investigates production line efficiency to uncover key downtime causes and identify improvement areas. The analysis includes calculating operator-specific efficiency, prioritizing main downtime factors with a Pareto approach, and evaluating downtime by operator and factor using a matrix. Based on these findings, targeted recommendations were made: initiating machine adjustment training for all operators, providing specialized batch change training for Mac, and implementing preventive maintenance checks to reduce machine-related delays.
 
 # Objective  -  
 
@@ -9,10 +13,6 @@ The objective of the Manufacturing Downtime Analysis at Wolf Cola is to evaluate
 1. Calculate the efficiency for a production line and break it down by operator.
 2. Use a Pareto chart to identify the main factors for downtime in the production line.
 3.  Use a matrix to calculate the total downtime by operator for each of the main factors you identified.
-
-# Overview -  
-
-This project investigates production line efficiency to uncover key downtime causes and identify improvement areas. The analysis includes calculating operator-specific efficiency, prioritizing main downtime factors with a Pareto approach, and evaluating downtime by operator and factor using a matrix. Based on these findings, targeted recommendations were made: initiating machine adjustment training for all operators, providing specialized batch change training for Mac, and implementing preventive maintenance checks to reduce machine-related delays.
 
 
 # Findings -
