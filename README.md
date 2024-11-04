@@ -1,6 +1,10 @@
 # Manufacturing Downtime Analysis
 
-# Objective  -
+# Objective  -  
+
+The objective of the Manufacturing Downtime Analysis at Wolf Cola is to evaluate production and downtime data from the bottling line to calculate overall line efficiency, identify key downtime factors, and assess operator performance. The analysis aims to develop actionable recommendations, including targeted training programs and maintenance practices, to improve efficiency and reduce downtime, ultimately fostering a more productive manufacturing environment.  
+
+# Key Goals -  
 
 1. Calculate the efficiency for a production line and break it down by operator.
 2. Use a Pareto chart to identify the main factors for downtime in the production line.
