@@ -12,9 +12,9 @@
 
 # Findings -
 
-1. Overall Efficiency Sits at 64%
-2. Operator Charlie has the highest efficiency at 67%.
-3. The Top 5 Factors account for 80% of the Downtime.
+1. Overall Efficiency Sits at **64%**
+2. Operator Charlie has the highest efficiency at **67%**.
+3. The Top 5 Factors account for **80%** of the Downtime.
 
    > Machine adjustment
    
@@ -26,7 +26,7 @@
 
    > Batch coding error  
 
-4. 3/5 main downtime factors are due to operator error.
+4. 3/5 main downtime factors are due to **operator error**.
 
 
 # Calculations -  
