@@ -57,9 +57,12 @@ The objective of the Manufacturing Downtime Analysis at Wolf Cola is to evaluate
   =SUMIFS(INDEX('Line downtime'!$C$3:$N$40,,MATCH(Dashboard!C$23,'Line downtime'!$C$2:$N$2,0)),'Line downtime'!$B$3:$B$40,Dashboard!$B25)
 ```
 
-# Recommendations -
-1. Start with machine adjustment training for all operators.
-2. Provide Special batch change training for Mac.
-3. Apply Preventive maintenance to machines and double check.
+# Recommendations -  
+
+**Machine Adjustment Training -** Implement training programs for all operators focused on machine adjustments to reduce related downtime.
+
+**Specialized Training for Mac -** Provide special batch change training for Operator Mac to address his specific challenges.
+
+**Preventive Maintenance -** Establish a preventive maintenance schedule for machines and ensure thorough checks to mitigate machine failures.
 
 ![Dashboard_final1](https://github.com/user-attachments/assets/00ad0f59-898f-4334-86b2-32dc57647b07)
